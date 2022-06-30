@@ -5,7 +5,7 @@
       good communication skills and have an eye for detail. Flexible to work
       in any environment as required.
 - 🌱 I’m currently learning web dev and DSA in java
-- #  Also familiar with HTML, CSS, Javascript, PHP, oracle databse
+- 💕💕  Also familiar with HTML, CSS, Javascript, PHP, oracle databse
 - 📫 you can reach me at @aryanxofficial@gmail.com
 
 <!---
