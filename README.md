@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Aryan
-- 👀 Everything excites me and I am always looking to learn and experiment with new stuff
+- 👀 I am a dedicated team player who thrives on hard work, meticulous
+      attention to detail, and strong organizational skills .I am also willing to
+      learn and and collaborate on new projects and technology. Possess
+      good communication skills and have an eye for detail. Flexible to work
+      in any environment as required.
 - 🌱 I’m currently learning web dev and DSA in java
-- ## I am well versed with C , C++ as well..
-- 💞️ I’m looking to collaborate on any possible project from any domain as I believe it helps me to expand my horizon
+- #  Also familiar with HTML, CSS, Javascript, PHP, oracle databse
 - 📫 you can reach me at @aryanxofficial@gmail.com
 
 <!---
