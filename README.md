@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Arora</h1>
 <h3 align="center">I am a passionate and adaptable developer always eager to learn and explore new technologies. I thrive in a dynamic environment where I can leverage my skills to solve real-world problems. With a strong foundation in various tech stacks, including front-end development, web automation, Flutter and low-code tools like OutSystems, I am now excitedly transitioning into the fascinating field of machine learning and AI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanxofficial&label=Profile%20views&color=0e75b6&style=flat" alt="aryanxofficial" /> </p>
-
 - 🔭 I’m currently working on **improving accessibility in flutter based applications**
 
 - 🌱 I’m currently learning **Flutter**
@@ -31,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanxofficial&show_icons=true&theme=tokyonight&locale=en" alt="aryanxofficial" /></p>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanxofficial&label=Profile%20views&color=0e75b6&style=flat" alt="aryanxofficial" /> </p>
 <!---
 aryanxofficial/aryanxofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
