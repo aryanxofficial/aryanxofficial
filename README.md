@@ -16,7 +16,7 @@
 - ⚡ Fun fact **Programmers don't make mistakes, they have unexpected features.**
 
 <h2 align="left">Connect with me:</h2>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-arora29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-arora29/" height="30" width="40" /></a>
 </p>
 
@@ -76,7 +76,23 @@
 
 
 <h2 align="left">Github Trophies:</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanxofficial" alt="aryanxofficial" /></a> </p>
+<div style="display: flex; justify-content: center;">
+  <div>
+    <p align="center"> 
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=aryanxofficial&row=1" alt="aryanxofficial" />
+      </a>
+    </p>
+  </div>
+  <div>
+    <p align="center"> 
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=aryanxofficial&row=2" alt="aryanxofficial" />
+      </a>
+    </p>
+  </div>
+</div>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanxofficial&label=Profile%20views&color=0e75b6&style=flat" alt="aryanxofficial" /> </p>
