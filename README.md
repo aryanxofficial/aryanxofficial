@@ -95,9 +95,6 @@
 <!--- Spotify --->
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31wmm2zaj4m7c6dbmxb5ivwgevuy&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=4eb16f&bar_color_cover=false" /></div>
 
-
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanxofficial&label=Profile%20views&color=0e75b6&style=flat" alt="aryanxofficial" /> </p>
 <!---
 aryanxofficial/aryanxofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
